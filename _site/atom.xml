@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    
+
+    <title>Skinny Bones</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>//benjaminjb.github.io/apple-touch-icon-precomposed.png</icon>
+    <subtitle>A web developer portfolio</subtitle>
+    <link href="//benjaminjb.github.io/atom.xml" rel="self"/>
+    <link href="//benjaminjb.github.io/" rel="alternate" type="text/html"/>
+    <updated>2014-11-11T15:07:16-06:00</updated>
+    <id>//benjaminjb.github.io/</id>
+    <author>
+			<name></name>
+			<uri>//benjaminjb.github.io/</uri>
+			
+		</author>
+
+    
+</feed>
